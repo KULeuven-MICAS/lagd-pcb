@@ -1,0 +1,9 @@
+Manufacturer=COILCRAFT
+PartNumber=SLC7649S-121KLC
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=2.3
+Released=2022-04-23 09:08:02
+Downloaded=2025-05-06 17:29:19
+3D=Y

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SLC7649S-121KLC"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-04-24-20:12:41)
+    (mountForm default
+        (footprintRef "SLC7649S121KLC")
+        (spec "System")
+    )
+)

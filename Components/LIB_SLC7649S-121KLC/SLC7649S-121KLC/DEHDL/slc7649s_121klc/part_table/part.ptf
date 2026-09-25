@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SLC7649S_121KLC'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "COILCRAFT", "SLC7649S-121KLC" (!) = "", "SLC7649S121KLC", "Other", "994-SLC7649S-121KLC", "https://www.mouser.co.uk/ProductDetail/Coilcraft/SLC7649S-121KLC?qs=zCSbvcPd3pZzvmkyAkuqYA%3D%3D", "Power inductor, shielded, 10% tol, SMT, RoHS", "https://www.coilcraft.com/getmedia/0d701ca2-6dd3-4654-9f29-37f6d8a82fc7/slc7649.pdf", "4.9 mm"
+END_PART
+
+END.

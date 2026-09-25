@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SLC7649S-121KLC
+D Power inductor, shielded, 10% tol, SMT, RoHS
+K
+F https://www.coilcraft.com/getmedia/0d701ca2-6dd3-4654-9f29-37f6d8a82fc7/slc7649.pdf
+$ENDCMP
+#
+#End Doc Library

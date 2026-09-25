@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SLC7649S121KLC"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SLC7649S121KLC")
+        (spec "default")
+    )
+)
